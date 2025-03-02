@@ -1,0 +1,16 @@
+{
+  "name": "test-fdd",
+  "displayName": "test-FDD",
+  "publisher": "FinancialDataDojo",
+  "description": "test-pack-fdd",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "esbenp.prettier-vscode"
+  ]
+}
