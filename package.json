@@ -3,7 +3,7 @@
   "displayName": "test-FDD",
   "publisher": "FinancialDataDojo",
   "description": "test-pack-fdd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -12,5 +12,10 @@
   ],
   "extensionPack": [ 
     "esbenp.prettier-vscode"
-  ]
+  ],  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Financial-Data-Dojo/ext_Test-fdd.git"
+  },
+  "homepage": "https://github.com/Financial-Data-Dojo/ext_Test-fdd/blob/main/README.md"
 }
